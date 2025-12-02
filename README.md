@@ -21,6 +21,3 @@ This project is a basic smart home automation and parking management system buil
 -The smart door detects when a person approaches and opens automatically for easy access.
 
 -Other home appliances are controlled similarly using sensors and relays to turn them ON or OFF automatically based on presence or commands.
-
-The Arduino processes all sensor inputs and controls the devices to make the system smart and convenient.
-
