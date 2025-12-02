@@ -16,8 +16,8 @@ This project is a basic smart home automation and parking management system buil
 - LEDs
 
 ## How It Works
--The parking system uses sensors to detect when a car arrives and automatically opens the gate to allow entry.
+- The parking system uses sensors to detect when a car arrives and automatically opens the gate to allow entry.
 
--The smart door detects when a person approaches and opens automatically for easy access.
+- The smart door detects when a person approaches and opens automatically for easy access.
 
--Other home appliances are controlled similarly using sensors and relays to turn them ON or OFF automatically based on presence or commands.
+- Other home appliances are controlled similarly using sensors and relays to turn them ON or OFF automatically based on presence or commands.
